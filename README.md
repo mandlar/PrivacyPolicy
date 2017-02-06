@@ -1,4 +1,5 @@
-# PrivacyPolicy
+# Privacy Policy
+
 Privacy Policy for Mandaria Software applications, including but not limited to Car Dashboard and Tippy Tipper
 
 Last updated: February 6, 2017
